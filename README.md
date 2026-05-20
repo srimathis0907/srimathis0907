@@ -83,8 +83,8 @@ I am a final-year **B.Tech Information Technology** student at **SIMATS Engineer
 
 ### 📜 Certifications
 
-* **Oracle Certified Professional: Java SE 17 Developer** (December 2025) – Verified expertise in Java SE 17 features, functional programming, and modular development. [cite: 89]
-* **Ericsson Educate: 21st Century Technologies** (December 2025) – Comprehensive training on 5G Networks, IoT, Artificial Intelligence, and Automation. [cite: 90]
+* **Oracle Certified Professional: Java SE 17 Developer** (December 2025) – Verified expertise in Java SE 17 features, functional programming, and modular development.
+* **Ericsson Educate: 21st Century Technologies** (December 2025) – Comprehensive training on 5G Networks, IoT, Artificial Intelligence, and Automation.
 
 ---
 
