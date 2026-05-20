@@ -5,12 +5,12 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sri0907" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" align="center" alt="LinkedIn Logo" /> <b style="font-size: 18px;">LinkedIn</b>
+  <a href="https://www.linkedin.com/in/sri0907" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" align="center" alt="LinkedIn Logo" /> <b style="font-size: 18px; color: #4db8ff;">LinkedIn</b>
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://srimathis0907.github.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" align="center" alt="Portfolio Logo" /> <b style="font-size: 18px;">Portfolio</b>
+  <a href="https://srimathis0907.github.io" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/github/white" width="32" align="center" alt="Portfolio Logo" /> <b style="font-size: 18px; color: #ffffff;">Portfolio</b>
   </a>
 </div>
 
@@ -85,6 +85,6 @@ I am a final-year **B.Tech Information Technology** student at **SIMATS Engineer
 
 <div align="center">
   <a href="https://github.com/srimathis0907" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" alt="GitHub Logo" />
+    <img src="https://cdn.simpleicons.org/github/white" width="80" alt="GitHub Logo" />
   </a>
 </div>
