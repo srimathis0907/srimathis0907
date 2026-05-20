@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srimathi%20S&fontSize=60&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20|%20Java%20&%20Android%20Developer&descAlignY=55" alt="Animated Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srimathi%20S&fontSize=60&animation=fadeIn&fontAlignY=38&desc=B.Tech%20IT%20Student%20|%20Actively%20Seeking%20IT%20Opportunities&descAlignY=55" alt="Animated Header" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sri0907" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" align="center" alt="LinkedIn Logo" /> <b style="font-size: 18px;">LinkedIn</b>
   </a> 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://srimathis0907.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" align="center" alt="Portfolio Logo" /> <b style="font-size: 18px;">Portfolio</b>
   </a>
 </div>
 
@@ -84,7 +84,7 @@ I am a final-year **B.Tech Information Technology** student at **SIMATS Engineer
 ### 📈 Activity & Analytics
 
 <div align="center">
-  <a href="https://github.com/srimathis0907">
-    <img src="https://github-readme-stats.vercel.app/api?username=srimathis0907&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/srimathis0907" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" alt="GitHub Logo" />
   </a>
 </div>
